@@ -75,7 +75,9 @@ git clone https://github.com/fatmakaraca/DataCore
 ### 👥 Authors
 
 Öykü Tuğyan
+
 Fatma Karaca
+
 Ebrar Pınar Kuz
 
 
